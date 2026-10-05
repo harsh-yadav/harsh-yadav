@@ -1,43 +1,36 @@
-# Hi, I'm Harshavardhan Yadav Gangadhara 👋
+# Harshavardhan Yadav Gangadhara
 
-**Automotive Software Integration Engineer | Building hands-on embedded software skills**
+Automotive software integration engineer: AUTOSAR, diagnostics and release workflows. Now building hands-on embedded C and tooling skills.
 
-## About me
+## Experience
 
-- Automotive software integration experience at **L&T Technology Services in Munich**, working on **BMW PHEV BMU GEN5 HVS**.
-- My professional foundation includes **AUTOSAR application integration, diagnostics and release workflows**.
-- I am strengthening my practical skills in **C, Embedded C and Python automation**, and exploring **STM32 and ARM Cortex-M fundamentals**.
-- Interested in automotive software integration and opportunities to grow in embedded software development.
+At **L&T Technology Services, Munich**, I worked on software integration for **BMW PHEV BMU GEN5 HVS**:
 
-## Professional experience
+- AUTOSAR application integration, with exposure to RTE and ARXML
+- Diagnostics (DCM)
+- CI/CD with Jenkins, SVN and Git
+- Release workflows through to production delivery
+- Coordination with suppliers
 
-AUTOSAR application integration · RTE / ARXML exposure · Diagnostics / DCM · CI/CD · Jenkins · SVN / Git · Release workflows · Supplier coordination · Production delivery
+## Currently working on
 
-## Currently building
+- **Eclipse S-CORE**: learning the open-source automotive software platform and working toward my first contributions, starting with its docs-as-code tooling
+- **Embedded C on STM32 (ARM Cortex-M)**: GPIO, timers, UART
+- **CAN and UDS**: implementing the protocols myself, not just configuring them
+- **Python automation** for integration and log-analysis work
 
-C / Embedded C · STM32 peripherals · ARM Cortex-M fundamentals · Python automation · CAN / UDS implementation practice · HIL / SIL / MBD fundamentals
+## Next up
 
-These are learning and development areas, rather than claims of production-level expertise.
+| Project | What it covers |
+| --- | --- |
+| CAN message parser in C | Decoding signals from raw frames with bit operations |
+| UDS diagnostics simulator | Request/response flows for common diagnostic services |
+| ARXML / log automation tool | Parsing and summarising with Python, using synthetic data |
+| Jenkins CI mini pipeline | Reproducible builds and automated checks |
 
-## Project roadmap
+Each project gets its own repository once it's built.
 
-The projects below are planned. Working code and repository links will be added as they are built.
-
-| Project | Learning focus | Status |
-| --- | --- | --- |
-| CAN Message Parser in C | Sample CAN frames, signal extraction and bit operations | Planned |
-| UDS Diagnostics Simulator | Request/response flows and selected diagnostic services | Planned |
-| ARXML / Log Automation Tool | Python parsing and summaries using synthetic data | Planned |
-| Jenkins CI Mini Pipeline | Reproducible builds and automated checks | Planned |
-| STM32 Peripheral Project | GPIO, timers and UART | Planned |
-
-## Connect with me
-
-[GitHub: @harsh-yadav](https://github.com/harsh-yadav)
-
-LinkedIn, email and portfolio links will be added here.
-
-<!-- Replace the line above with your verified links when ready:
+<!-- Add your links here when ready:
 [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE/) ·
 [Email](mailto:YOUR_EMAIL) ·
 [Portfolio](https://harsh-yadav.github.io/)
