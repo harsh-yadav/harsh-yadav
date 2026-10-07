@@ -42,9 +42,36 @@ Each project gets its own repository once it's built.
 
 ## LinkedIn recommendations
 
-[Read my recommendations on LinkedIn](https://www.linkedin.com/in/harshavardhang/)
+**[View the original recommendations on LinkedIn](https://www.linkedin.com/in/harshavardhang/)** — open the Recommendations section to check the original wording and author profiles. LinkedIn may require sign-in.
 
-Open the Recommendations section on my profile. LinkedIn may require you to sign in.
+Selected excerpts from recommendations received on LinkedIn, reproduced from the supplied screenshots. The excerpts below can be read here without signing in.
+
+### Pablo López Hidalgo
+*Systems Engineer · Direct manager · September 15, 2026*
+
+> Throughout our collaboration, Harsha consistently demonstrated strong technical expertise, a structured approach to problem-solving, and a high level of ownership.
+
+### Eya Ben Amara
+*Function Development / MBD Engineer · BMW Project · July 2, 2026*
+
+> I highly recommend Harsha for his extensive knowledge, strong analytical abilities, and commitment to delivering the best possible product.
+
+### Masoud Akhondi
+*Function Definition Manager, BMW Group · June 30, 2026*
+
+> As an integrator, Harsha was consistently reliable and solution-oriented.
+
+> Beyond his technical expertise, he was a thoughtful communicator and a supportive teammate.
+
+### Alexander Winterholler
+*MBA · June 30, 2026*
+
+> I especially appreciated his structured way of working, his sense of responsibility, and his strong teamwork. I can confidently recommend Harshavardhan as a capable and dependable engineering professional.
+
+### SHRIRAM G RAMALINGAM
+*Embedded Software Architecture Specialist · Direct manager · June 30, 2026*
+
+> He communicated clearly and professionally in this customer-facing role, building strong trust with the BMW team. I'm glad to recommend Harshavardhan to any team looking for a dependable engineer with strong AUTOSAR Classic integration and testing skills.
 
 ## Connect
 
