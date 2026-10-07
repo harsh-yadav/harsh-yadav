@@ -44,8 +44,7 @@ Each project gets its own repository once it's built.
 
 **[View the original recommendations on LinkedIn](https://www.linkedin.com/in/harshavardhang/)** — open the Recommendations section to check the original wording and author profiles. LinkedIn may require sign-in.
 
-Selected excerpts from recommendations received on LinkedIn, reproduced from the supplied screenshots. The excerpts below can be read here without signing in.
-
+Selected excerpts from recommendations received on LinkedIn.
 ### Pablo López Hidalgo
 *Systems Engineer · Direct manager · September 15, 2026*
 
