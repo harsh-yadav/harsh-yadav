@@ -39,3 +39,13 @@ Each project gets its own repository once it's built.
 ---
 
 *Build it. Understand it. Explain it.*
+
+## LinkedIn recommendations
+
+[Read my recommendations on LinkedIn](https://www.linkedin.com/in/harshavardhang/)
+
+Open the Recommendations section on my profile. LinkedIn may require you to sign in.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/harshavardhang/) · [GitHub](https://github.com/harsh-yadav)
